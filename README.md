@@ -27,7 +27,7 @@ This is a simple **Text to Speech (TTS)** web application built using **HTML**, 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/text-to-speech-converter.git
+   git clone https://github.com/supriya46788/Text-to-speech-converter.git
 
 
 
